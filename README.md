@@ -55,7 +55,7 @@
     </a>
   </details>
   <details>
-    <summary><h3>:hammer_and_wrench: Frameworks/Libraries</h3></summary>
+    <summary><h3>:shield: Frameworks/Libraries</h3></summary>
     <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/FelipeBergmann/devicon/master/icons/dotnetcore/dotnetcore-original.svg" 
         alt="css3" 
